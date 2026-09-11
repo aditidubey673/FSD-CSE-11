@@ -5,15 +5,13 @@
     background-color: antiquewhite;
     width: 240px;
     height: 320px;
-    border: 2px solid red;
+    border: 4px solid rgb(15, 3, 3);
     padding: 15px;
     border-radius: 10px;
     gap:8px;
 
 }
 .btn{
-    background-color: rgb(10, 10, 66);
+    background-color: rgb(250, 33, 188);
     color: white;
-    padding: 3px;
-    border-radius: 20px;
 }

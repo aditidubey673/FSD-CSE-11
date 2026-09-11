@@ -11,7 +11,7 @@ a{
     padding: 1em;
     justify-content: center;
     height:10vh;
-    background-color: bisque;
+    background-color: rgb(200, 255, 196);
 }
 .header p{
 margin-top: 5px ;
@@ -34,5 +34,7 @@ margin-top: 5px ;
 }
 .footer{
     background-color: black;
+    height:50px;
+    width: 100%;
     color:white;
 }
