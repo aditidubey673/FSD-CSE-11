@@ -1,0 +1,38 @@
+ul, li{
+   justify-content: space-evenly;
+   text-align: center;
+   display: flex;
+   padding:0.5em;
+}
+a{
+    text-decoration: none;
+}
+.header{
+    padding: 1em;
+    justify-content: center;
+    height:10vh;
+    background-color: bisque;
+}
+.header p{
+margin-top: 5px ;
+ text-align: center;
+}
+.navbar{
+    height: 10vh;
+    width: 100%;
+    font-size: large;
+    background-color: aliceblue;
+}
+.home{
+    text-align: center;
+    height: 85vh;
+    margin-left: 20px ;
+}
+.itemss{
+      display: flex;
+      gap: 20px;
+}
+.footer{
+    background-color: black;
+    color:white;
+}

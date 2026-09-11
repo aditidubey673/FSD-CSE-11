@@ -1,0 +1,19 @@
+.item{
+    margin-top:10px;
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    width: 240px;
+    height: 320px;
+    border: 2px solid red;
+    padding: 15px;
+    border-radius: 10px;
+    gap:8px;
+
+}
+.btn{
+    background-color: rgb(10, 10, 66);
+    color: white;
+    padding: 3px;
+    border-radius: 20px;
+}
